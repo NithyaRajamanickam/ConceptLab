@@ -16,7 +16,6 @@ public class Api {
  }
  
  public int apiMultiplication(int a, int b) {
-	 System.out.println(String.format("The value of my integer is %d", "Hello World"));
         return a * b;
  }
 
