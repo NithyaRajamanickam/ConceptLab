@@ -12,7 +12,7 @@ public class Api {
  }
  
  public int apiSubtraction(int a, int b) {
-     return a - b; 
+     return a - b;
  }
  
  public int apiMultiplication(int a, int b) {
@@ -21,6 +21,7 @@ public class Api {
  }
 
  public int apiDivison(int a, int b)  {
+	 System.out.println(String.format("The value of my integer is %d", "Hello World"));
         return a / b;
  }
  
