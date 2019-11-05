@@ -5,7 +5,7 @@ package com.cts;
 
 public class Login {
 
-    public int loginSum(int a, int b) { 
+    public int loginSum(int a, int b) {  
         return a + b;  
  }
  
