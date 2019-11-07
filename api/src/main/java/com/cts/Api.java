@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Api {
 
-    public int apiSum(int a, int b) {
+    public int apiSum(int a, int b) { 
     	return a + b;  
  }
  
