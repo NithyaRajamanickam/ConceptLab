@@ -5,8 +5,8 @@ package com.cts;
 
 public class Dao {
 
-    public int daoSum(int a, int b) {
-        return a + b;  
+    public int daoSum(int a, int b) { 
+        return a + b;    
  }
  
  public int daoSubtraction(int a, int b) {
