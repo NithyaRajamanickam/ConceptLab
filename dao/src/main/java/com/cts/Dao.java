@@ -6,7 +6,8 @@ package com.cts;
 public class Dao {
 
     public int daoSum(int a, int b) {
-    	return a + b ;  
+    	return a + b;
+    	//test code inserted
         
  }
  
